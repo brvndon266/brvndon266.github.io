@@ -6,4 +6,6 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+# Contact
+
+Feel free to reach out via [email](mailto:brandon.lopez.miramontes@gmail.com) or [connect with me on LinkedIn](https://www.linkedin.com/in/brandon26/) if you have any questions about my experience or projects. I’d love to chat!
