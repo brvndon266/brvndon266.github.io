@@ -6,9 +6,9 @@ permalink: /about
 
 # About Me
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 2 rem; flex-wrap: wrap;">
 
-<div style="flex: 1 1 300px;">
+<div style="flex: 1 1 300 px;">
 
 I’m Brandon Lopez, a mechanical engineer finishing my BS/MS at UC San Diego with a focus on automation, design, and system integration. I’ve contributed to autonomous vehicle projects with Triton AI, prototyped RF systems during my internship at NIWC Pacific, and supported instruction across multiple engineering courses as a Teaching Assistant.
 
