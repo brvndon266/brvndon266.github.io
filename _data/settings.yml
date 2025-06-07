@@ -20,8 +20,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
+- {icon: 'instagram', link: 'https://www.instagram.com/brvndon266/'}
+- {icon: 'github',    link: 'https://github.com/brvndon266'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/brandon26/'}
 - {icon: 'envelope',  link: 'mailto:mailto:brandon.lopez.miramontes@gmail.com'}
 
