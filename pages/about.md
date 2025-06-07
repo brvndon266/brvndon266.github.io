@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About Me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I’m Brandon Lopez, a mechanical engineer finishing my BS/MS at UC San Diego with a focus on automation, design, and system integration. I’ve contributed to autonomous vehicle projects with Triton AI, prototyped RF systems during my internship at NIWC Pacific, and supported instruction across multiple engineering courses as a Teaching Assistant.
+
+With hands-on experience in CAD, FEA, fabrication, and testing, I’m ready to bring technical depth and leadership to a full-time engineering role. I'm especially excited by opportunities that blend mechanical design with real-world impact.
