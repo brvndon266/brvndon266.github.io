@@ -16,6 +16,6 @@ With hands-on experience in CAD, FEA, fabrication, and testing, I’m ready to b
 
 </div>
 
-<img src="/assets/img/projects/brandon.jpg" alt="Brandon Lopez" style="max-width: 200 px; border-radius: 50 %; object-fit: cover; aspect-ratio: 1;">
+<img src="/assets/img/projects/brandon" alt="Brandon Lopez" style="max-width: 200 px; border-radius: 50 %; object-fit: cover; aspect-ratio: 1;">
 
 </div>
